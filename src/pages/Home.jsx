@@ -41,6 +41,7 @@ const Home = () => {
                             <li>Text to Video - Chuyển văn bản thành video</li>
                             <li>Create AI Avatar - Tạo avatar AI</li>
                             <li>Improve Image Quality - Cải thiện chất lượng hình ảnh</li>
+                            <li>......</li>
                         </ul>
                     </div>
                     <button onClick={handleGetStarted} className="start_btn">BẮT ĐẦU NÀO</button>
